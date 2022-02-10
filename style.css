@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    Padding: 0;
+    font-family:'Chau Philomene One', sans-serif; 
+}
+.header {
+    display: inline;
+    align-content: right;
+    background-color: rgb(55, 148, 211);
+
+}
